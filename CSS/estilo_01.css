@@ -1,0 +1,177 @@
+﻿body {
+    margin: 0 auto;
+}
+
+#principal_menu {
+    margin: 0 auto;
+    height: 180px;
+    background: url("../Images/background_top.png") repeat-x;
+    width: 100%;
+}
+
+.conteudo_titulo {
+    width: 200px;
+    height: 100px;
+    background: url("../Images/titulo_login.png") no-repeat;
+    margin-top: 10px;
+}
+
+.conteudo_titulo_cadastro {
+    width: 220px;
+    height: 100px;
+    background: url("../Images/titulo_cadastro.png") no-repeat;
+    margin-top: 10px;
+}
+
+.linhas{ width: 100%;}
+
+.tit{ width: 250px;}
+
+.tamanho_coluna{ width: 350px;}
+
+#conteudo_cadastro {
+    width: 700px;
+    min-height: 700px;
+    margin: 0 auto;
+}
+
+#conteudo_cadastro h4 {
+    font-family: sans-serif;
+    font-size: 18pt;
+    color: #68217A;
+    margin-bottom: 15px;
+}
+
+#conteudo_cadastro h2 {
+    font-family: sans-serif;
+    color: #68217A;
+    margin-bottom: 15px;
+}
+
+#menu {
+    width: 900px;
+    margin: 0 auto;
+}
+
+.logo {
+    width: 200px;
+    height: 130px;
+    background: url("../Images/logo.png") no-repeat;
+    margin-top: 15px;
+}
+
+.fl {
+    float: left;
+}
+
+.fr {
+    float: right;
+}
+
+.noVisible {
+    display: none;
+}
+
+
+.container {
+    width: 1024px;
+    min-height: 400px;
+    margin: 50px auto 0;
+}
+
+.conteudo {
+    width: 300px;
+    height: 300px;
+    margin: 100px auto 0;
+}
+
+    .conteudo h4 {
+        font-family: sans-serif;
+        font-size: 18pt;
+        color: #68217A;
+        margin-bottom: 15px;
+    }
+
+.txt {
+    border: 1pt #68217a solid;
+    width: 300px;
+    height: 35px;
+    font-family: sans-serif;
+    font-size: 18pt;
+    color: #68217A;
+    margin-top: -100px;
+}
+
+.txt_area {
+    border: 1pt #68217a solid;
+    width: 653px;
+    height: 150px;
+    font-family: sans-serif;
+    font-size: 15pt;
+    color: #68217A;
+}
+
+.rbl {
+    width: 300px;
+    height: 35px;
+    font-family: sans-serif;
+    font-size: 13pt;
+    color: #68217A;
+    margin-top: -10px;
+}
+
+.drp {
+    border: 1pt #68217a solid;
+    width: 300px;
+    height: 35px;
+    font-family: sans-serif;
+    font-size: 15pt;
+    color: #68217A;
+}
+
+.drp_busca {
+    border: 1pt #68217a solid;
+    width: 200px;
+    height: 25px;
+    font-family: sans-serif;
+    font-size: 10pt;
+    color: #68217A;
+    margin-bottom: 20px;
+}
+
+.btn {
+    width: 100px;
+    height: 40px;
+    border: 1pt #68217a solid;
+    background-color: #68217a;
+    font-family: sans-serif;
+    font-size: 15px;
+    color: white;
+    margin-left: 201px;
+    margin-top: 20px;
+}
+
+.lbl {
+    font-family: sans-serif;
+    font-size: 18px;
+    color: #dc143c;
+}   
+
+.grd {
+    width: 655px;
+    overflow: auto;
+}
+
+
+.txt_tamanho_data {
+    width: 70px;
+}
+
+.txt_tamanho_obs {
+    
+    width: 120px;
+}
+
+.texto {
+    text-align: center;
+}
